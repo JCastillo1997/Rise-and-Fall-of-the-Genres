@@ -25,7 +25,7 @@ This later slides represent how production truly skyrocketed and how a music gen
 ![Slide_10](Slides/Slide_10.png)
 
 Then we wrap everything up.
-![Slide_11](Slides/Captura11.png)
+![Slide_11](Slides/Captura 11.png)
 ![Slide_12](Slides/Captura_12.png)
 
 And we credit the people that compiled the data for our extraction, thank you for attention on this brief project of mine
