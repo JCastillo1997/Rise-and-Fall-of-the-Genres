@@ -15,7 +15,7 @@ First the length of the song and wether it affects its success
 ![Slide_6](Slides/Slide6.png)
 
 Then how genre cursing first came into the picture and how it affected, apart from what is considered explicit or not.
-![Slide_7](Slides/Slide_7.png)
+![Slide_7](Slides/slide_7.png)
 
 Then how both men and woman evolved throught the decades and how minorities, mostly black people; both men and woman, affected the industry sphere.
 ![Slide_8(Slides/Slide_8.png)
